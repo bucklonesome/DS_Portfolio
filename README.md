@@ -7,6 +7,7 @@
 * [Linear Regression Lesson in MATLAB (Live Script) For Astrophysical Imaging Course Spring 2023](https://github.com/the-dr-eric-r/DS_Portfolio/blob/main/Exoplanet_DS_Portfolio/linreg_PHYS410_Exoplanets_KEY.mlx) - GitHub does not appear to open MATLAB Live Scripts as it does Jupyter Notebooks, viewers are recommended to download.
 * *In Progress...*
     * [Part 2 - Deep Learning with PyTorch & Keras](https://github.com/the-dr-eric-r/DS_Portfolio/blob/main/Exoplanet_DS_Portfolio/deep_exoplanet_or_browndwarf_ER.ipynb) - Comparison between PyTorch and Keras libraries using the same neural network (number of hidden layers, epochs, loss functions, etc.) and using XGBoost as a control case.
+    * [Kepler's 3rd Law with Exoplanets - Linear Regression in R](https://github.com/the-dr-eric-r/DS_Portfolio/blob/main/Exoplanet_DS_Portfolio/Exoplanet_LinearRegression_R_ER.ipynb) - A basic linear regression analysis in the R programming language.
     * [Main Project with MORE classification classes](https://github.com/the-dr-eric-r/DS_Portfolio/blob/main/Exoplanet_DS_Portfolio/moreclass_exoplanet_or_browndwarf_ER.ipynb) 
     * Creating New-Planetary Classifications Using [2-variable](https://github.com/the-dr-eric-r/DS_Portfolio/blob/main/Exoplanet_DS_Portfolio/exoplanet_kmeans_2var_analysis_ER.ipynb) and [6-variable](https://github.com/the-dr-eric-r/DS_Portfolio/blob/main/Exoplanet_DS_Portfolio/exoplanet_kmeans_6var_analysis_ER.ipynb) K-Means Clustering
 
